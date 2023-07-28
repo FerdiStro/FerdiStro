@@ -23,7 +23,7 @@ Hello there, fellow developers and curious minds! I'm Ferdi, and I'm thrilled to
 ### 📊 Stats
 Some cool Stats about my Github: <br>
 <br>
-![Ferdis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdistro&show_icons=true&theme=gruvbox)
+![Ferdis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdistro&show_icons=true&theme=cobalt)
 
 #
 <!--
