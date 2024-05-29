@@ -1,6 +1,6 @@
 # 🌞 Ferdi 
 
-Hello there, fellow developers and curious minds! I'm Ferdi, and I'm thrilled to have you here on my GitHub page. This is where I showcase my passion for coding, problem-solving, and building exciting projects. Allow me to take you on a journey through my coding adventures!
+Hello there, fellow developers and curious minds! I'm Ferdi, and I'm thrilled to have you here on my GitHub page. This is where I showcase my passion for coding, problem-solving, and building exciting projects. Allow me to take you on a journey through my coding adventures! 
 
 ---
 
