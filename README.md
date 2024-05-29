@@ -51,7 +51,7 @@ Magic-Dungeons is a game I created when I was 12. Now, armed with much more know
 <h3 align="center">Plant-Grower</h3>
 
   <p align="center">
-  Fullstack application for watering your plants. Based on C++ for ESP32 and Dashboard-overview with Angular and a Spring-boot backend    <br/>
+  Fullstack application for watering your plants. Based on C++ for ESP32 and Dashboard-overview with Angular and a Spring-boot backend.    <br/>
     <a href="https://github.com/FerdiStro/plant-grower-springboot">Springboot-Server</a>
     .
     <a href="https://github.com/FerdiStro/plant-grower-angular">Angular-Dashboard</a>
@@ -70,7 +70,7 @@ Magic-Dungeons is a game I created when I was 12. Now, armed with much more know
 <h3 align="center">HobbyConnect</h3>
 
   <p align="center">
-    Our mission is to make the world a better place for your hobbies
+    Our mission is to make the world a better place for your hobbies.
     <br />
     <br />
     <a href="https://github.com/HobbyConnect">Git-Hub</a>
