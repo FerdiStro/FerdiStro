@@ -62,7 +62,7 @@ Magic-Dungeons is a game I created when I was 12. Now, armed with much more know
 </div>
 </br>
 
-<!-- Plant-Grower -->
+<!-- Hobby-Connect -->
 <div align="center">
   <a href="https://github.com/HobbyConnect">
     <img src="https://hobby-connect.de/logo.svg" alt="Logo" height="70">
@@ -80,17 +80,18 @@ Magic-Dungeons is a game I created when I was 12. Now, armed with much more know
     <a href="https://hobby-connect.de">Website</a>
   </p>
 </div>
-<!--
-**FerdiStro/FerdiStro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- CDJ-BeatBox -->
+<div align="center">
+  <a>
+    <img src="https://github.com/FerdiStro/CDJ-BeatBox/blob/main/src/main/resources/Image/Doc/preview-normal-debug-mode.png" alt="Logo" height="70">
+  </a>
+<h3 align="center">CDJ-BeatBox</h3>
+  <p align="center">
+    This programm allows you to interact with Pioneer-CDJs and play your own virtual drum-machine synced to the network-cdjs. 
+    <br />
+    <br />
+    <a href="https://github.com/FerdiStro/CDJ-BeatBox">Git-Hub</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </p>
+</div>
