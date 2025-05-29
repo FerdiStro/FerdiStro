@@ -95,3 +95,18 @@ Magic-Dungeons is a game I created when I was 12. Now, armed with much more know
 
   </p>
 </div>
+
+<!-- CDJ-BeatBox -->
+<div align="center">
+  <a>
+    <img src="https://github.com/FerdiStro/Jfrog-WAR-deploy/blob/main/doc/src/icon.png" alt="Logo" height="70">
+  </a>
+<h3 align="center">Jfrog-WAR-deploy</h3>
+  <p align="center">
+This service continuously monitors a specified JFrog Artifactory repository for .war file updates. Upon detecting a new version, it automatically triggers a custom deployment script.    <br />
+    <br />
+    <a href="https://github.com/FerdiStro/Jfrog-WAR-deploy">Git-Hub</a>
+
+  </p>
+</div>
+
