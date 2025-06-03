@@ -106,6 +106,10 @@ Magic-Dungeons is a game I created when I was 12. Now, armed with much more know
 This service continuously monitors a specified JFrog Artifactory repository for .war file updates. Upon detecting a new version, it automatically triggers a custom deployment script.    <br />
     <br />
     <a href="https://github.com/FerdiStro/Jfrog-WAR-deploy">Git-Hub</a>
+    .
+    <a href="https://hub.docker.com/r/ferdinond/jfrog-artifact-watcher">Docker-Hub</a>
+
+    
 
   </p>
 </div>
