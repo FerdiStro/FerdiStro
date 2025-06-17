@@ -33,6 +33,7 @@ Some cool Stats about my Github: <br>
 ### ⚡ Projects 
 
 <!-- Magic-Dungeons -->
+ <br />
 <div align="center">
     <img src="https://github.com/FerdiStro/FerdiStro/assets/94618749/3c2ef355-01ae-4c54-b291-243255fd01da" alt="Logo" height="70">
 <h3 align="center">Magic-Dungeons</h3>
@@ -46,6 +47,7 @@ Magic-Dungeons is a game I created when I was 12. Now, armed with much more know
 </br>
 
 <!-- Plant-Grower -->
+ <br />
 <div align="center">
       <div alt="Logo" height="700">🌱</div>
 <h3 align="center">Plant-Grower</h3>
@@ -63,9 +65,10 @@ Magic-Dungeons is a game I created when I was 12. Now, armed with much more know
 </br>
 
 <!-- Hobby-Connect -->
+ <br />
 <div align="center">
   <a href="https://github.com/HobbyConnect">
-    <img src="https://hobby-connect.de/logo.svg" alt="Logo" height="70">
+    <img src="https://avatars.githubusercontent.com/u/140051370?s=96&v=4" alt="Logo" height="70">
   </a>
 <h3 align="center">HobbyConnect</h3>
 
@@ -82,6 +85,7 @@ Magic-Dungeons is a game I created when I was 12. Now, armed with much more know
 </div>
 
 <!-- CDJ-BeatBox -->
+ <br />
 <div align="center">
   <a>
     <img src="https://github.com/FerdiStro/CDJ-BeatBox/blob/main/src/main/resources/Image/Doc/preview-normal-debug-mode.png" alt="Logo" height="70">
@@ -97,6 +101,7 @@ Magic-Dungeons is a game I created when I was 12. Now, armed with much more know
 </div>
 
 <!-- CDJ-BeatBox -->
+ <br />
 <div align="center">
   <a>
     <img src="https://github.com/FerdiStro/Jfrog-WAR-deploy/blob/main/doc/src/icon.png" alt="Logo" height="70">
@@ -108,9 +113,20 @@ This service continuously monitors a specified JFrog Artifactory repository for 
     <a href="https://github.com/FerdiStro/Jfrog-WAR-deploy">Git-Hub</a>
     .
     <a href="https://hub.docker.com/r/ferdinond/jfrog-artifact-watcher">Docker-Hub</a>
+  </p>
+</div>
 
-    
-
+<!-- CV Generator -->
+ <br />
+<div align="center">
+  <a>
+    <img src="https://github.com/FerdiStro/VS/blob/main/doc/CV_example_blue.png" alt="Logo" height="70">
+  </a>
+<h3 align="center">Jfrog-WAR-deploy</h3>
+  <p align="center">
+Rust-CLI CV-generator. Builds with docker <br />
+    <br />
+    <a href="https://github.com/FerdiStro/VS">Git-Hub</a>
   </p>
 </div>
 
