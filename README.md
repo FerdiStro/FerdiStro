@@ -122,7 +122,7 @@ This service continuously monitors a specified JFrog Artifactory repository for 
   <a>
     <img src="https://github.com/FerdiStro/VS/blob/main/doc/CV_example_blue.png" alt="Logo" height="70">
   </a>
-<h3 align="center">Jfrog-WAR-deploy</h3>
+<h3 align="center">CV-Generator</h3>
   <p align="center">
 Rust-CLI CV-generator. Builds with docker <br />
     <br />
