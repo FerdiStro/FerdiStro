@@ -120,7 +120,7 @@ This service continuously monitors a specified JFrog Artifactory repository for 
  <br />
 <div align="center">
   <a>
-    <img src="https://github.com/FerdiStro/VS/blob/main/doc/asstes/CV_example_blue.png" alt="Logo" height="70">
+    <img src="https://github.com/FerdiStro/VS/blob/main/doc/assets/CV_example_blue.png" alt="Logo" height="70">
   </a>
 <h3 align="center">CV-Generator</h3>
   <p align="center">
