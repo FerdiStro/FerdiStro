@@ -40,7 +40,13 @@ journey through my coding adventures!
       <b style="font-size: 30px;">spring-postman-request-generator</b><br>
       A JetBrains IntelliJ plugin that automatically generates Postman collections from Spring Java classes using @RequestMapping annotations.<br><br>
       <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
-      <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"><br><br>
+      <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"> 
+      <br>
+      <br>
+      <img alt= "Github-Build" src="https://github.com/FerdiStro/spring-postman-request-generator/workflows/Build/badge.svg">
+      <img alt="Plugin-Version" src="https://img.shields.io/jetbrains/plugin/v/27997-spring-postman-request-generator.svg">
+      <img alt="Downloads" src="https://img.shields.io/jetbrains/plugin/d/27997-spring-postman-request-generator.svg">
+      <br><br>
       <b>Links:</b> 
       <a href="https://github.com/FerdiStro/spring-postman-request-generator">Git-Hub</a> ·
       <a href="https://plugins.jetbrains.com/plugin/27997-spring-postman-request-generator">JetBrains-Marketplace</a>
