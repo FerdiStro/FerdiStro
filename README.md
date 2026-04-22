@@ -32,6 +32,22 @@ journey through my coding adventures!
 ### ⚡ Projects
 
 <table style="width:100%; border-collapse: collapse; margin-bottom: 24px;">
+      <tr style="box-shadow: 0 4px 6px -1px rgba(0,0,0,.1), 0 2px 4px -2px rgba(0,0,0,.1);">
+        <td style="width: 200px; vertical-align: middle; text-align: center; height:150px;">
+          <img src="https://github.com/FerdiStro/CDJ-BeatBoxer/blob/main/doc/src/BeatBoxer-Tui.png?raw=true" height="120" width="200" alt="CDJ-BeatBox Logo">
+        </td>
+        <td style="width: 800px; padding-left: 12px;">
+          <b style="font-size: 30px;">CDJ-BeatBoxer</b><br>
+          A drum machine fully synced to your CDJs via ProDJ Link using beat-link. Better version of CDJ-BeatBox<br><br>
+          <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white">
+          <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"><br><br>
+          <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/FerdiStro/CDJ-BeatBoxer/build-binary.yaml">
+          <img alt="GitHub Release" src="https://img.shields.io/github/v/release/FerdiStro/CDJ-BeatBoxer"></b><br>
+          <b>Links:</b> 
+          <a href="https://github.com/FerdiStro/CDJ-BeatBoxer">Git-Hub</a>
+        </td>
+      </tr>
+  
   <tr style="box-shadow: 0 4px 6px -1px rgba(0,0,0,.1), 0 2px 4px -2px rgba(0,0,0,.1);">
     <td style="width: 200px; vertical-align: middle; text-align: center; height:150px;">
       <img src="https://github.com/FerdiStro/spring-postman-request-generator/raw/main/doc/img/icon.svg" height="120" alt="spring-postman-request-generator Logo">
@@ -135,7 +151,7 @@ journey through my coding adventures!
           <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
           <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
           <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"><br><br>
-          <b>Links:</b> <a href="https://github.com/FerdiStro/HobbyConnect">GitHub</a>
+          <b>Links:</b> <a href="https://github.com/HobbyConnect">GitHub</a>
         </td>
       </tr>
 </table>
